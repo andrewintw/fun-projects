@@ -5,7 +5,7 @@ The Idea
 --------
 當你用剪刀剪東西的時候，超過一個角度就會發出訕笑聲。
 
-[看demo點圖片]
+[點圖片看demo]
 
 [![YouTube](http://img.youtube.com/vi/pTkpNpwUSMQ/0.jpg)](http://www.youtube.com/watch?v=pTkpNpwUSMQ)
 
@@ -17,7 +17,7 @@ Hacking
 
 ![image](../images/crazy-scissor_02.JPG)
 
-[看影片點圖片]
+[點圖片看影片]
 
 [![YouTube](http://img.youtube.com/vi/Y0BnYaK8zt4/0.jpg)](http://www.youtube.com/watch?v=Y0BnYaK8zt4)
 
