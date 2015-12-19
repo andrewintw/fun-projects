@@ -5,7 +5,9 @@ The Idea
 --------
 當你用剪刀剪東西的時候，超過一個角度就會發出訕笑聲。
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pTkpNpwUSMQ" frameborder="0" allowfullscreen></iframe>
+[看demo點圖片]
+
+[![YouTube](http://img.youtube.com/vi/pTkpNpwUSMQ/0.jpg)](http://www.youtube.com/watch?v=pTkpNpwUSMQ)
 
 Hacking
 -------
@@ -15,7 +17,9 @@ Hacking
 
 ![image](../images/crazy-scissor_02.JPG)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0BnYaK8zt4" frameborder="0" allowfullscreen></iframe>
+[看影片點圖片]
+
+[![YouTube](http://img.youtube.com/vi/Y0BnYaK8zt4/0.jpg)](http://www.youtube.com/watch?v=Y0BnYaK8zt4)
 
 拆開後發現它的電路結構其實不複雜，就是以一顆按鈕，控制要不要讓鈕扣電池的電力，通過電路板上的元件。
 
