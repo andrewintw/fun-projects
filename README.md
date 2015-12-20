@@ -9,6 +9,5 @@ FUN 手作工坊
 -------------
 * 骰子電風扇
 * WebCam 顯微鏡
-* 令人躁鬱的文具系列
-	* [哇哈哈剪刀](docs/crazy-scissor.md)
-	* [I LOVE YOU 滑鼠](docs/iloveyou-mouse.md)
+* [哇哈哈剪刀](docs/crazy-scissor.md)
+* [令人煩躁的 I LOVE YOU 滑鼠](docs/iloveyou-mouse.md)
