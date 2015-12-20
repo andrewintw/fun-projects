@@ -11,4 +11,4 @@ FUN 手作工坊
 * WebCam 顯微鏡
 * 令人躁鬱的文具系列
 	* [哇哈哈剪刀](docs/crazy-scissor.md)
-	* I LOVE YOU 滑鼠
+	* [I LOVE YOU 滑鼠](docs/iloveyou-mouse.md)
